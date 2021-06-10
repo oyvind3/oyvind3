@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oyvind3
 - 👀 I’m interested in cloud computing and DevOps
 - 🌱 I’m currently learning CI/CD pipelines, exploration.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on larger k8s enviroments
 - 📫 How to reach me ...
 
 <!---
